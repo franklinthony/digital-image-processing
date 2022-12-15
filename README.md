@@ -29,7 +29,7 @@
 
 ## :rocket: Tecnologias
 
-Essa aplicação foi desenvolvida com as seguintes tecnologias:
+Essa aplicação foi desenvolvida com a seguinte tecnologia:
 
 - [Python Imaging Library](https://pillow.readthedocs.io/en/stable/)
 
