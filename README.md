@@ -14,7 +14,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franklinthony/digital-image-processing">
   </a>
 
-  <a href="https://github.com/franklinthony/branch-and-bound-algorithm/issues">
+  <a href="https://github.com/franklinthony/digital-image-processing/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/franklinthony/digital-image-processing">
   </a>
 </p>
